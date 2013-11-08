@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Lessify Wp
+Plugin Name: Lessify Wordpress
 Plugin URI: http://magnigeeks.com
 Description: Combine the power of wordpress with the power of Less and create something awesome. Just enqueue you less files in the traditional wordpress way and lessify will do the trick.
 Version: 1.0

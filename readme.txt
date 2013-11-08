@@ -23,12 +23,12 @@ Just enqueue the LESS files (with .less extension) as it is usually done for the
 
 1.This plugin is based on  [lessphp](http://leafo.net/lessphp/) by Leaf Corcoran
 
-2. This plugin generates the css file under "/wp-content/uploads/lessify-cache" and therefore you need to define your images and any external links on you less file using the themeurl variable available with this plugin and if you use relative url then it will not work as we are saving the css file in a different location.
+2.This plugin generates the css file under "/wp-content/uploads/lessify-cache" and therefore you need to define your images and any external links on you less file using the themeurl variable available with this plugin and if you use relative url then it will not work as we are saving the css file in a different location.
 
-3. In order  to use themeurl variable with the images you can do something like this
+3.In order  to use themeurl variable with the images you can do something like this
 `body{ background-image: url(@{themeurl}/images/bg.png` , the plugin also comes with another variable `lessurl` which provides the url where the less file is present.
 
-4. To enqueue your less file just do like this 
+4.To enqueue your less file just do like this 
 `wp_enqueue_style( 'less-style', get_stylesheet_directory_uri() . '/style.less' );`
 
 == Installation ==

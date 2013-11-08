@@ -17,7 +17,7 @@ LESS extends CSS with dynamic behavior such as variables, mixins, operations and
 
 **How to use ?**
 
-Just enqueue the LESS files (with .less extension) as it is usually done for the CSS ones, and the corresponding CSS files will automatically be generated and added to the site (apart from the file extension
+Just enqueue the LESS files (with .less extension) as it is usually done for the CSS ones, and the corresponding CSS files will automatically be generated and added to the site.
 
 **Important Notes**
 

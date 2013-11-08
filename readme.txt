@@ -28,11 +28,12 @@ Just enqueue the LESS files (with .less extension) as it is usually done for the
 3. In order  to use themeurl variable with the images you can do something like this
 `body{ background-image: url(@{themeurl}/images/bg.png` , the plugin also comes with another variable `lessurl` which provides the url where the less file is present.
 
-4. To enqueue your less file just do like this `wp_enqueue_style( 'less-style', get_stylesheet_directory_uri() . '/style.less' );`
+4. To enqueue your less file just do like this 
+`wp_enqueue_style( 'less-style', get_stylesheet_directory_uri() . '/style.less' );`
 
 == Installation ==
 * Download the plugin and extract it.
-* Upload the directory '/lessify-wordpress/' to the '/wp-content/plugins/' directory.
+* Upload the directory '/lessify-wp/' to the '/wp-content/plugins/' directory.
 * Activate the plugin through the 'Plugins' menu in WordPress.
 * That's it you are done, you can now start creating your less files and enqueue to wordpress.
 

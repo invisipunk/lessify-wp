@@ -1,5 +1,6 @@
 === Lessify Wordpress ===
 Contributors: sagarseth9
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sagar.seth9@gmail.com&item_name=Lessify%20WordPress&return=http://wordpress.org/extend/plugins/lessify-wp/
 Tags: less, wp less , lessify wordpress, less wordpress, less wp, lesscss wordpress
 Requires at least: 3.0
 Tested up to: 3.7.1

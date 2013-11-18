@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Lessify Wordpress
-Plugin URI: http://magnigeeks.com
+Plugin URI: http://magnigenie.com/using-less-with-wordpress/
 Description: Combine the power of wordpress with the power of Less and create something awesome. Just enqueue you less files in the traditional wordpress way and lessify will do the trick.
 Version: 1.0
 Author: Nirmal Kumar Ram
-Author URI: http://magnigeeks.com
+Author URI: http://magnigenie.com/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
